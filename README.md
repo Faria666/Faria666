@@ -38,6 +38,9 @@
 #### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,aws,docker,postman,unity&perline=4)](https://skillicons.dev)
 
+#### IDEs / Editors
+[![IDEs](https://skillicons.dev/icons?i=pycharm,idea,clion,androidstudio,vscode,sublime&perline=4)](https://skillicons.dev)
+
 ##
 <p align="center">
   <a href="https://github.com/Faria666">
