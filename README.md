@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%"/>
+  <img src="assets/top-banner.png" alt="Banner" width="100%"/>
 </p>
 
 <h2 align="center">Hi 👋, I'm João Faria</h2>
