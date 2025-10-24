@@ -25,17 +25,23 @@
   - Linux
 
 ## Skills
-
 #### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=py,ts,js,html,scss,css,java,kotlin,c,cs,cpp,swift,matlab&perline=4)](https://skillicons.dev)
 
 #### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=angular,selenium,react,fastapi,nodejs&perline=4)](https://skillicons.dev)
-[![Frameworks](Also Palywright and JUnit)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="48" height="48" alt="JUnit"/>
+</p>
 
 #### Libraries
 [![Libraries](https://skillicons.dev/icons?i=opencv,sqlite&perline=4)](https://skillicons.dev)
-[![Libraries](Also pandas)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas"/>
+</p>
 
 #### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,aws,webpack,postman,unity&perline=4)](https://skillicons.dev)
