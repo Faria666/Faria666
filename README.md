@@ -31,11 +31,11 @@
 
 #### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=angular,selenium,react,fastapi,nodejs&perline=4)](https://skillicons.dev)
-[![Frameworks]Also Palywright and JUnit
+[![Frameworks](Also Palywright and JUnit)
 
 #### Libraries
 [![Libraries](https://skillicons.dev/icons?i=opencv,sqlite&perline=4)](https://skillicons.dev)
-[![Libraries]Also pandas
+[![Libraries](Also pandas)
 
 #### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,aws,webpack,postman,unity&perline=4)](https://skillicons.dev)
