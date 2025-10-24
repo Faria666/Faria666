@@ -26,10 +26,10 @@
 
 ## Skills
 #### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=py,ts,js,html,scss,css,java,kotlin,c,cs,cpp,swift,matlab&perline=4)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=py,ts,js,html,scss,css,java,kotlin,c,cs,cpp,swift,matlab)](https://skillicons.dev)
 
 #### Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=angular,selenium,react,fastapi,nodejs&perline=4)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=angular,selenium,react,fastapi,nodejs)](https://skillicons.dev)
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright"/>
@@ -37,17 +37,17 @@
 </p>
 
 #### Libraries
-[![Libraries](https://skillicons.dev/icons?i=opencv,sqlite&perline=4)](https://skillicons.dev)
+[![Libraries](https://skillicons.dev/icons?i=opencv,sqlite)](https://skillicons.dev)
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas"/>
 </p>
 
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,aws,webpack,postman,unity&perline=4)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,aws,webpack,postman,unity)](https://skillicons.dev)
 
 #### IDEs / Editors
-[![IDEs](https://skillicons.dev/icons?i=pycharm,idea,clion,androidstudio,vscode,sublime&perline=4)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=pycharm,idea,clion,androidstudio,vscode,sublime)](https://skillicons.dev)
 
 ##
 <p align="center">
