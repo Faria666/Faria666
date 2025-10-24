@@ -33,7 +33,7 @@
 [![Frameworks](https://skillicons.dev/icons?i=angular,playwright,selenium,junit,react,fastapi,nodejs&perline=4)](https://skillicons.dev)
 
 #### Libraries
-[![Libraries](https://skillicons.dev/icons?i=opencv,pandas&perline=4)](https://skillicons.dev)
+[![Libraries](https://skillicons.dev/icons?i=opencv,pandas,sqlite&perline=4)](https://skillicons.dev)
 
 #### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,aws,docker,postman,unity&perline=4)](https://skillicons.dev)
