@@ -41,7 +41,7 @@
 [![alt text](https://skillicons.dev/icons?i=matlab "MatLab")](https://github.com/Faria666)
 
 #### Frameworks
-[![alt text](https://skillicons.dev/icons?i=angularjs "AngularJS")](https://github.com/Faria666)
+[![alt text](https://skillicons.dev/icons?i=angular "Angular")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=playwright "Playwright")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=selenium "Selenium")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=junit "JUnit")](https://github.com/Faria666)
