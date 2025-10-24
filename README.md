@@ -30,7 +30,7 @@
 [![Programming Languages](https://skillicons.dev/icons?i=py,ts,js,html,scss,css,java,kotlin,c,cs,cpp,swift,matlab&perline=4)](https://skillicons.dev)
 
 #### Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=angular,selenium,,react,fastapi,nodejs&perline=4)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=angular,selenium,react,fastapi,nodejs&perline=4)](https://skillicons.dev)
 
 #### Libraries
 [![Libraries](https://skillicons.dev/icons?i=opencv,sqlite&perline=4)](https://skillicons.dev)
