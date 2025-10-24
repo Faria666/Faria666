@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm João Faria</h2>
-<h4 align="center">Software Engineer & Master's Graduate in Informatics Engineering, specializing in Intelligent Systems</h4>
+<h4 align="center">Software Engineer & Master's Graduate in Informatics Engineering, specialized in Intelligent Systems</h4>
 <br>
 
 ## About Me
