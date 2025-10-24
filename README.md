@@ -6,8 +6,8 @@
 - Nationality: Portuguese
 - Age: 27 years old
 - From: Coimbra, Portugal
-- Interests: Technology, Simracing, Music, Motorsports, Finance, Current News  
-- Hobbies: Gaming, Watching Motorsports, Listening to Music, Simracing
+- Interests: Technology, SimRacing, Music, Musical Instruments, Motorsports, Finance, Current News  
+- Hobbies: Gaming, Watching Motorsports, Listening to Music, SimRacing, Playing with my band
 - Languages:
   - Portuguese (native)
   - English (advanced)
