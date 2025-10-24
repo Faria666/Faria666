@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%"/>
+</p>
+
 <h2 align="center">Hi 👋, I'm João Faria</h2>
 <h4 align="center">Software Engineer & Master's Graduate in Informatics Engineering, specialized in Intelligent Systems</h4>
 <br>
@@ -27,10 +31,8 @@
 ## Skills
 #### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=py,ts,js,html,scss,css,java,kotlin,c,cs,cpp,swift,matlab)](https://skillicons.dev)
-
 #### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=angular,selenium,react,fastapi,nodejs)](https://skillicons.dev)
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="48" height="48" alt="JUnit"/>
@@ -38,7 +40,6 @@
 
 #### Libraries
 [![Libraries](https://skillicons.dev/icons?i=opencv,sqlite)](https://skillicons.dev)
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas"/>
 </p>
