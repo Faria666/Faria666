@@ -6,7 +6,7 @@
 - Nationality: Portuguese
 - Age: 27 years old
 - From: Coimbra, Portugal
-- Interests: Technology, Simracing, Music, Motorsports, Current News  
+- Interests: Technology, Simracing, Music, Motorsports, Finance, Current News  
 - Hobbies: Gaming, Watching Motorsports, Listening to Music, Simracing
 - Languages:
   - Portuguese (native)
@@ -17,6 +17,7 @@
   - Typescript, Python. Java and Kotlin
 - Favourite IDEs/Editors: 
   - JetBrains IDEs (PyCharm, IntelliJ IDEA, CLion)
+  - Android Studio
   - VS Code & Sublime Text
 - Operative Systems:
   - Windows
@@ -26,25 +27,31 @@
 ## Skills
 #### Programming Languages
 [![alt text](https://skillicons.dev/icons?i=py "Python")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=js "JavaScript")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=ts "TypeScript")](https://github.com/Faria666)
+[![alt text](https://skillicons.dev/icons?i=js "JavaScript")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=html "HTML")](https://github.com/Faria666)
+[![alt text](https://skillicons.dev/icons?i=scss "SCSS")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=css "CSS")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=java "Java")](https://github.com/Faria666)
+[![alt text](https://skillicons.dev/icons?i=kotlin "Kotlin")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=c "C")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=cs "C#")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=cpp "C++")](https://github.com/Faria666)
+[![alt text](https://skillicons.dev/icons?i=swift "Swift")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=matlab "MatLab")](https://github.com/Faria666)
 
 #### Frameworks
-[![alt text](https://skillicons.dev/icons?i=fastapi "FastAPI")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=openapi "OpenAPI")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=swagger "Swagger")](https://github.com/Faria666)
+[![alt text](https://skillicons.dev/icons?i=angularjs "AngularJS")](https://github.com/Faria666)
+[![alt text](https://skillicons.dev/icons?i=playwright "Playwright")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=selenium "Selenium")](https://github.com/Faria666)
+[![alt text](https://skillicons.dev/icons?i=junit "JUnit")](https://github.com/Faria666)
+[![alt text](https://skillicons.dev/icons?i=react "React")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=fastapi "FastAPI")](https://github.com/Faria666)
 [![alt text](https://skillicons.dev/icons?i=nodejs "NodeJS")](https://github.com/Faria666)
 
 #### Libraries
 [![alt text](https://skillicons.dev/icons?i=opencv "OpenCV")](https://github.com/Faria666)
+[![alt text](https://skillicons.dev/icons?i=pandas "Pandas")](https://github.com/Faria666)
 
 #### Tools
 [![alt text](https://skillicons.dev/icons?i=git "Git")](https://github.com/Faria666)
