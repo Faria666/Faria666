@@ -55,9 +55,6 @@
   <a href="https://github.com/Faria666">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faria666&theme=dark&hide_border=true"/>
   </a>
-  <a href="https://github.com/Faria666">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faria666&hide_border=true&theme=github_dark"/>
-  </a>
 </div>
 
 <div align="center" style="border:none">
