@@ -51,22 +51,31 @@
 [![IDEs](https://skillicons.dev/icons?i=pycharm,idea,clion,androidstudio,vscode,sublime)](https://skillicons.dev)
 
 ##
-
-<div align="center">
-  <a href="https://github.com/Faria666">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faria666&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faria666&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-  </a>
-</div>
-
 <div align="center">
   <a href="https://github.com/Faria666">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faria666&theme=dark&hide_border=true"/>
   </a>
+  <a href="https://github.com/Faria666">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faria666&hide_border=true&theme=github_dark"/>
+  </a>
 </div>
 
-<div align="center">
+<div align="center" style="border:none">
   <a href="https://github.com/Faria666">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faria666&theme=github_dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faria666&theme=github_dark&hide_border=true"/>
+  </a>
+</div>
+
+<div align="center" style="border:none">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faria666&hide_border=true&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faria666&hide_border=true&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faria666&hide_border=true&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faria666&hide_border=true&theme=github_dark"/>
+</div>
+
+<div align="center" style="border:none">
+  <a href="https://github.com/Faria666">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faria666&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faria666&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
   </a>
 </div>
