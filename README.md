@@ -39,7 +39,13 @@
 [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,aws,webpack,postman,unity&perline=4)](https://skillicons.dev)
 
 #### IDEs / Editors
-[![IDEs](https://skillicons.dev/icons?i=pycharm,idea,clion,androidstudio,vscode,sublime&perline=4)](https://skillicons.dev)
+| PyCharm | IntelliJ IDEA | CLion | Android Studio |
+|:--:|:--:|:--:|:--:|
+| ![PyCharm](https://skillicons.dev/icons?i=pycharm) | ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) | ![CLion](https://skillicons.dev/icons?i=clion) | ![Android Studio](https://skillicons.dev/icons?i=androidstudio) |
+
+| VS Code | Sublime Text |
+|:--:|:--:|
+| ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Sublime Text](https://skillicons.dev/icons?i=sublime) |
 
 ##
 <p align="center">
