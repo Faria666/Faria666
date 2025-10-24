@@ -36,7 +36,7 @@
 [![Libraries](https://skillicons.dev/icons?i=opencv,pandas,sqlite&perline=4)](https://skillicons.dev)
 
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,aws,docker,postman,unity&perline=4)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,aws,webpack,postman,unity&perline=4)](https://skillicons.dev)
 
 #### IDEs / Editors
 [![IDEs](https://skillicons.dev/icons?i=pycharm,idea,clion,androidstudio,vscode,sublime&perline=4)](https://skillicons.dev)
