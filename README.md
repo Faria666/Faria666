@@ -14,7 +14,7 @@
   - Spanish (basic)
 ####
 - Favourite Programming Languages: 
-  - Typescript, Python. Java and Kotlin
+  - Typescript, Python, Java and Kotlin
 - Favourite IDEs/Editors: 
   - JetBrains IDEs (PyCharm, IntelliJ IDEA, CLion)
   - Android Studio
@@ -25,42 +25,18 @@
   - Linux
 
 ## Skills
+
 #### Programming Languages
-[![alt text](https://skillicons.dev/icons?i=py "Python")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=ts "TypeScript")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=js "JavaScript")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=html "HTML")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=scss "SCSS")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=css "CSS")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=java "Java")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=kotlin "Kotlin")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=c "C")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=cs "C#")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=cpp "C++")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=swift "Swift")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=matlab "MatLab")](https://github.com/Faria666)
+[![Programming Languages](https://skillicons.dev/icons?i=py,ts,js,html,scss,css,java,kotlin,c,cs,cpp,swift,matlab&perline=4)](https://skillicons.dev)
 
 #### Frameworks
-[![alt text](https://skillicons.dev/icons?i=angular "Angular")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=playwright "Playwright")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=selenium "Selenium")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=junit "JUnit")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=react "React")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=fastapi "FastAPI")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=nodejs "NodeJS")](https://github.com/Faria666)
+[![Frameworks](https://skillicons.dev/icons?i=angular,playwright,selenium,junit,react,fastapi,nodejs&perline=4)](https://skillicons.dev)
 
 #### Libraries
-[![alt text](https://skillicons.dev/icons?i=opencv "OpenCV")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=pandas "Pandas")](https://github.com/Faria666)
+[![Libraries](https://skillicons.dev/icons?i=opencv,pandas&perline=4)](https://skillicons.dev)
 
 #### Tools
-[![alt text](https://skillicons.dev/icons?i=git "Git")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=github "GitHub")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=gitlab "GitLab")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=aws "AWS")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=docker "Docker")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=postman "Postman")](https://github.com/Faria666)
-[![alt text](https://skillicons.dev/icons?i=unity "Unity")](https://github.com/Faria666)
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,aws,docker,postman,unity&perline=4)](https://skillicons.dev)
 
 ##
 <p align="center">
