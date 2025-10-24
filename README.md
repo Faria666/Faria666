@@ -27,81 +27,124 @@
 ## Skills
 
 ### 🧠 Programming Languages
-<p align="center">
+<div align="center">
 
-| ![Python](https://skillicons.dev/icons?i=py) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![HTML](https://skillicons.dev/icons?i=html) |
-|:--:|:--:|:--:|:--:|
-| Python | TypeScript | JavaScript | HTML |
+<table style="border-collapse:collapse; border:0;" cellpadding="6" cellspacing="0" align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"><div>Python</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"><div>TypeScript</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"><div>JavaScript</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"><div>HTML</div></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=scss" width="48" alt="SCSS"><div>SCSS</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"><div>CSS</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"><div>Java</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="48" alt="Kotlin"><div>Kotlin</div></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" alt="C"><div>C</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#"><div>C#</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"><div>C++</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=swift" width="48" alt="Swift"><div>Swift</div></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=matlab" width="48" alt="MATLAB"><div>MATLAB</div></td>
+    <td></td><td></td><td></td>
+  </tr>
+</table>
 
-| ![SCSS](https://skillicons.dev/icons?i=scss) | ![CSS](https://skillicons.dev/icons?i=css) | ![Java](https://skillicons.dev/icons?i=java) | ![Kotlin](https://skillicons.dev/icons?i=kotlin) |
-|:--:|:--:|:--:|:--:|
-| SCSS | CSS | Java | Kotlin |
-
-| ![C](https://skillicons.dev/icons?i=c) | ![C#](https://skillicons.dev/icons?i=cs) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Swift](https://skillicons.dev/icons?i=swift) |
-|:--:|:--:|:--:|:--:|
-| C | C# | C++ | Swift |
-
-| ![MATLAB](https://skillicons.dev/icons?i=matlab) |
-|:--:|
-| MATLAB |
-
-</p>
+</div>
 
 ---
 
 ### ⚙️ Frameworks
-<p align="center">
+<div align="center">
 
-| ![Angular](https://skillicons.dev/icons?i=angular) | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Playwright_Logo.svg" width="48" alt="Playwright"/> | ![Selenium](https://skillicons.dev/icons?i=selenium) | <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.svg" width="48" alt="JUnit"/> |
-|:--:|:--:|:--:|:--:|
-| Angular | Playwright | Selenium | JUnit |
+<table style="border-collapse:collapse; border:0;" cellpadding="6" cellspacing="0" align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=angular" width="48" alt="Angular"><div>Angular</div></td>
 
-| ![React](https://skillicons.dev/icons?i=react) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) | ![NodeJS](https://skillicons.dev/icons?i=nodejs) |
-|:--:|:--:|:--:|
-| React | FastAPI | NodeJS |
+    <!-- Public SVG for Playwright (alternative hosts). If this URL ever breaks, replace with any other public SVG URL) -->
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Playwright_Logo.svg" width="48" alt="Playwright"><div>Playwright</div></td>
 
-</p>
+    <td align="center"><img src="https://skillicons.dev/icons?i=selenium" width="48" alt="Selenium"><div>Selenium</div></td>
+
+    <!-- JUnit public SVG (alternative source). Replace if it fails -->
+    <td align="center"><img src="https://raw.githubusercontent.com/junit-team/junit5/main/assets/img/junit5-logo.svg" width="48" alt="JUnit"><div>JUnit</div></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"><div>React</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI"><div>FastAPI</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="NodeJS"><div>NodeJS</div></td>
+    <td></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ### 📚 Libraries
-<p align="center">
+<div align="center">
 
-| ![OpenCV](https://skillicons.dev/icons?i=opencv) | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" alt="Pandas"/> | ![SQLite](https://skillicons.dev/icons?i=sqlite) |
-|:--:|:--:|:--:|
-| OpenCV | Pandas | SQLite |
+<table style="border-collapse:collapse; border:0;" cellpadding="6" cellspacing="0" align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV"><div>OpenCV</div></td>
 
-</p>
+    <!-- Pandas from a public source -->
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" alt="Pandas"><div>Pandas</div></td>
+
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite"><div>SQLite</div></td>
+    <td></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ### 🧰 Tools
-<p align="center">
+<div align="center">
 
-| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![GitLab](https://skillicons.dev/icons?i=gitlab) | ![AWS](https://skillicons.dev/icons?i=aws) |
-|:--:|:--:|:--:|:--:|
-| Git | GitHub | GitLab | AWS |
+<table style="border-collapse:collapse; border:0;" cellpadding="6" cellspacing="0" align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"><div>Git</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"><div>GitHub</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gitlab" width="48" alt="GitLab"><div>GitLab</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS"><div>AWS</div></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=webpack" width="48" alt="Webpack"><div>Webpack</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"><div>Postman</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=unity" width="48" alt="Unity"><div>Unity</div></td>
+    <td></td>
+  </tr>
+</table>
 
-| ![Webpack](https://skillicons.dev/icons?i=webpack) | ![Postman](https://skillicons.dev/icons?i=postman) | ![Unity](https://skillicons.dev/icons?i=unity) |
-|:--:|:--:|:--:|
-| Webpack | Postman | Unity |
-
-</p>
+</div>
 
 ---
 
 ### 💻 IDEs / Editors
-<p align="center">
+<div align="center">
 
-| ![PyCharm](https://skillicons.dev/icons?i=pycharm) | ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) | ![CLion](https://skillicons.dev/icons?i=clion) | ![Android Studio](https://skillicons.dev/icons?i=androidstudio) |
-|:--:|:--:|:--:|:--:|
-| PyCharm | IntelliJ IDEA | CLion | Android Studio |
+<table style="border-collapse:collapse; border:0;" cellpadding="6" cellspacing="0" align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pycharm" width="48" alt="PyCharm"><div>PyCharm</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="48" alt="IntelliJ IDEA"><div>IntelliJ IDEA</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=clion" width="48" alt="CLion"><div>CLion</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" alt="Android Studio"><div>Android Studio</div></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"><div>VS Code</div></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sublime" width="48" alt="Sublime Text"><div>Sublime Text</div></td>
+    <td></td><td></td>
+  </tr>
+</table>
 
-| ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Sublime Text](https://skillicons.dev/icons?i=sublime) |
-|:--:|:--:|
-| VS Code | Sublime Text |
-
-</p>
+</div>
 
 ---
 
