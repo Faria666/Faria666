@@ -8,7 +8,7 @@
 
 ## About Me
 - Nationality: Portuguese
-- Age: 27 years old
+- Birth: March 8, 1998
 - From: Coimbra, Portugal
 - Interests: Technology, SimRacing, Music, Musical Instruments, Motorsports, Finance, Current News  
 - Hobbies: Gaming, Watching Motorsports, Listening to Music, SimRacing, Playing with my band
