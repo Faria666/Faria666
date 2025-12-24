@@ -16,7 +16,6 @@
   - Portuguese (native)
   - English (advanced)
   - Spanish (basic)
-####
 - Favourite Programming Languages: 
   - Typescript, Python, Java and Kotlin
 - Favourite IDEs/Editors: 
